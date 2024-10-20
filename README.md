@@ -132,7 +132,7 @@ Make sure you have the following installed:
     Run the server in development mode.
 
     ```bash
-    npm run dev
+    npm start
     ```
 
     The server should now be running at `http://localhost:3000`.
